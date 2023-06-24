@@ -4,7 +4,3 @@ plugins:
 title: [Series Cronológicas]
 show_downloads: [false]
 
----
----
-
-@import "{{ site.theme }}";
