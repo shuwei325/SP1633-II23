@@ -1,5 +1,3 @@
-# Series Cronológicas
-
 .red\[asdf\]
 
 Profesor: Shu Wei Chou Chen (<shuwei.chou@ucr.ac.cr>)
