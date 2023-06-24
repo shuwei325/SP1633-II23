@@ -8,4 +8,4 @@ show_downloads: [true]
 ---
 ---
 
-@import "{{text_color.css}}";
+@import "{{ site.theme }}";
