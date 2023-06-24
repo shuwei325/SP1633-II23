@@ -1,3 +1,11 @@
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme
+title: [Series Cronológicas]
+description: [Es un curso introductorio teórico-práctico que proporciona los conceptos básicos del análisis de series cronológicas.]
+show_downloads: [true]
+
+---
+---
+
+@import "{{text_color.css}}";
