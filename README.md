@@ -1,6 +1,8 @@
-<link rel="stylesheet" href="<text_color.css>” /\>
+<link rel="stylesheet" href="text_color.css" />
 
 # Descripción:
+
+.red\[test\]
 
 Es un curso introductorio teórico-práctico que proporciona los conceptos
 básicos del análisis de series cronológicas.
