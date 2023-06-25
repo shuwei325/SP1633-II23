@@ -1,14 +1,17 @@
-Profesor: Shu Wei Chou Chen (<shuwei.chou@ucr.ac.cr>)
+<link rel="stylesheet" href="<text_color.css>” /\>
 
-## DESCRIPCION:
+# Descripción:
 
 Es un curso introductorio teórico-práctico que proporciona los conceptos
 básicos del análisis de series cronológicas.
 
-[Programa del curso
-(estadística)](https://shuwei325.github.io/SP1633-II23/SP1633-programa.pdf)
-[Programa del curso
-(matemática)](https://shuwei325.github.io/SP1633-II23/-programa.pdf)
+Profesor: Shu Wei Chou Chen (<shuwei.chou@ucr.ac.cr>)
+
+-   [Programa del curso
+    (estadística)](https://shuwei325.github.io/SP1633-II23/SP1633-programa.pdf)
+    <br>
+-   [Programa del curso
+    (matemática)](https://shuwei325.github.io/SP1633-II23/-programa.pdf)
 
 | Semana | Fecha | Clase                                                                                                                                | Video | Laboratorio y Materiales extras |
 |-----------|-----|-----|-----|-----------------------------------------------|
