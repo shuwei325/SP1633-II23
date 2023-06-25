@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="text_color.css" />
-
 # Descripción:
 
 .red\[test\]
