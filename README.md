@@ -6,10 +6,10 @@ básicos del análisis de series cronológicas.
 Profesor: Shu Wei Chou Chen (<shuwei.chou@ucr.ac.cr>)
 
 -   [Programa del curso
-    (estadística)](https://shuwei325.github.io/SP1633-II23/SP1633-programa.pdf)
+    (estadística)](https://shuwei325.github.io/SP1633-II23/Programa%20SP1633.pdf)
     <br>
 -   [Programa del curso
-    (matemática)](https://shuwei325.github.io/SP1633-II23/-programa.pdf)
+    (matemática)](https://shuwei325.github.io/SP1633-II23/Programa%20PF1328.pdf)
 
 | Semana | Fecha | Clase                                                                                                                                      | Laboratorio y Materiales extras                                                                 |
 |------------|------|------|--------------------------------------------------|
