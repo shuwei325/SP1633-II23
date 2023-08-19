@@ -4,18 +4,20 @@ format: html
 editor: visual
 ---
 
-El objetivo de este trabajo es poner en práctica los métodos de series cronológicas vistos en clase a los datos reales de acuerdo al interés del estudiantado. Con la serie temporal seleccionada al principio del curso, los estudiantes deben aplicar uno o varios métodos aprendidos en este curso. Además, deben presentar un trabajo escrito en forma de artículo corto (en menos de 10 páginas) y expondrán este proyecto al final de semestre. El tiempo máximo de la presentación es de 10 minutos.
+El objetivo de este trabajo es poner en práctica los métodos de series cronológicas vistos en clase a los datos reales de acuerdo al interés del estudiantado. Con la serie temporal seleccionada al principio del curso, los estudiantes deben aplicar uno o varios métodos aprendidos en este curso. Los estudiantes del Posgrado de Matemática, deben incorporar una técnica adicional para comparación.
+
+Final del curso, deben presentar un trabajo escrito en forma de artículo corto (en menos de 10 páginas) y expondrán este proyecto al final de semestre. El tiempo máximo de la presentación es de 10 minutos.
 
 El artículo debe venir las siguientes secciones:
 
-1. Resumen (abstracts) 	
+1.  Resumen (abstracts)
 
-2. Introducción (incluir una descripción del trabajo y el objetivo del análisis)
+2.  Introducción (incluir una descripción del trabajo y el objetivo del análisis)
 
-3. Metodología (describir la serie, explicar las metodologías utilizadas y su justificación)
+3.  Metodología (describir la serie, explicar las metodologías utilizadas y su justificación)
 
-4. Resultados y discusión (presentar los análisis realizados, diagnósticos y comparaciones de modelos)
+4.  Resultados y discusión (presentar los análisis realizados, diagnósticos y comparaciones de modelos)
 
-5. Conclusión
+5.  Conclusión
 
-6. Referencias
+6.  Referencias
