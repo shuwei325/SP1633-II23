@@ -238,16 +238,3 @@ plot(y)
 plot(y[1:200])
 plot(y[1:100])
 ```
-
-
-# Paquetes en R y extensiones
-
-Existen una variedad de formas de definir objetos de series temporales en R y distintos paquetes para graficar.
-
-[https://cran.r-project.org/web/views/TimeSeries.html](https://cran.r-project.org/web/views/TimeSeries.html)
-
-Les puede servir:
-
-[https://www.data-to-viz.com/](https://www.data-to-viz.com/)
-
-
