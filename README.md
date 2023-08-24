@@ -35,3 +35,9 @@ final](https://shuwei325.github.io/SP1633-II23/instrucciones_trabajo.html)
 <!-- 14             | 13/11 |  |     | -->
 <!-- 15             | 20/11 |  |     | -->
 <!-- 16             | 27/11 |  |     | -->
+
+# Ejercicios:
+
+| Lista            | Archivos adicionales          |
+|------------------|-------------------------------|
+| [1](Lista_1.pdf) | [datos](Lista_1_archivos.zip) |
