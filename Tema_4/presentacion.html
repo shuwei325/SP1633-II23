@@ -225,8 +225,7 @@ $$
 ## Unemployment -0.20477    0.10550  -1.941   0.0538 .  
 ## Savings      -0.04527    0.00278 -16.287  &lt; 2e-16 ***
 ## ---
-## Signif. codes:  
-## 0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 ## 
 ## Residual standard error: 0.3286 on 182 degrees of freedom
 ## Multiple R-squared:  0.754,	Adjusted R-squared:  0.7486 
@@ -247,8 +246,7 @@ $$
 
 ```
 ## 
-## 	Breusch-Godfrey test for serial correlation of
-## 	order up to 8
+## 	Breusch-Godfrey test for serial correlation of order up to 8
 ## 
 ## data:  Residuals from Linear regression model
 ## LM test = 14.874, df = 8, p-value = 0.06163
@@ -283,8 +281,7 @@ $$
 ## (Intercept)   -7.493      1.203  -6.229 2.25e-07 ***
 ## guinearice    40.288      1.337  30.135  &lt; 2e-16 ***
 ## ---
-## Signif. codes:  
-## 0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 ## 
 ## Residual standard error: 3.239 on 40 degrees of freedom
 ## Multiple R-squared:  0.9578,	Adjusted R-squared:  0.9568 
@@ -298,8 +295,7 @@ $$
 
 ```
 ## 
-## 	Breusch-Godfrey test for serial correlation of
-## 	order up to 8
+## 	Breusch-Godfrey test for serial correlation of order up to 8
 ## 
 ## data:  Residuals from Linear regression model
 ## LM test = 28.813, df = 8, p-value = 0.000342
@@ -356,8 +352,7 @@ Coefficients:
 tiempo      -12.7887     6.9427  -1.842  0.07736 .  
 tiempo2       1.5612     0.2323   6.720 4.83e-07 ***
 ---
-Signif. codes:  
-0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 
 Residual standard error: 71.61 on 25 degrees of freedom
 Multiple R-squared:  0.944,	Adjusted R-squared:  0.9395 
@@ -419,8 +414,7 @@ durbinWatsonTest(mod)
 
 ```
 ## 
-## 	Breusch-Godfrey test for serial correlation of
-## 	order up to 6
+## 	Breusch-Godfrey test for serial correlation of order up to 6
 ## 
 ## data:  Residuals
 ## LM test = 3.9215, df = 6, p-value = 0.6873
@@ -534,7 +528,17 @@ mes12        -0.1042     0.0325  -3.2068   0.0018
 
 - Periodograma (análisis espectral)
 
-&lt;img src="presentacion_files/figure-html/unnamed-chunk-19-1.png" width="40%" style="display: block; margin: auto;" /&gt;
+.pull-left[
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-19-1.png" width="65%" style="display: block; margin: auto;" /&gt;
+]
+
+.pull-right[
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-20-1.png" width="65%" style="display: block; margin: auto;" /&gt;
+
+```
+## [1] 349.0909
+```
+]
 
 ```
 ## [1] 349.0909
@@ -550,7 +554,7 @@ La frecuencia dominante `\(\omega\)` es 0.002864583, es decir, se completa un ci
 - Modelo de regresión lineal con covariables senos y cosenos
 `$$y_t=\alpha+\beta_1 cos(2 \pi \omega t)+\beta_2 sen(2 \pi \omega t)+\varepsilon_t$$`
 
-&lt;img src="presentacion_files/figure-html/unnamed-chunk-20-1.png" width="40%" style="display: block; margin: auto;" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-22-1.png" width="45%" style="display: block; margin: auto;" /&gt;
 
 ---
 
