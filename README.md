@@ -42,3 +42,4 @@ final](https://shuwei325.github.io/SP1633-II23/instrucciones_trabajo.html)
 |------------------------|-------------------------------|
 | [Lista 1](Lista_1.pdf) | [datos](Lista_1_archivos.zip) |
 | [Lista 2](Lista_2.pdf) |                               |
+| [Lista 3](Lista_3.pdf) |                               |
