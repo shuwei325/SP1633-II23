@@ -334,10 +334,16 @@ $$
 # MA(1)
 
 - Sin embargo, es necesario aplicar la restricción `\(|\theta_1|&lt;1\)`.
-- Note que a partir de `\(Z_t=C+a_t-\theta_1 a_{t-1}\)`, se puede aplicar recursivamente (como el caso de AR(1)), 
+- Note que a partir de `\(Z_t=C+a_t-\theta_1 a_{t-1}\)`, se puede despejar `\(a_t\)`, 
   `$$-C+Z_t+\theta_1 a_{t-1}=a_t,$$`
+  y sustituir recursivamente (como el caso de AR(1)):
+  `$$-C+Z_{t-1}+\theta_1 a_{t-2}=a_{t-1},$$`
+  en el modelo
+  `$$Z_t=C+a_t-\theta_1 \left[ -C+Z_{t-1}+\theta_1 a_{t-2} \right]$$`
+  
+  
 podemos obtener:
-`$$Z_t=C(1-\theta_1-\theta_1^2-...)-\theta_1 Z_{t-1}-\theta_1^2 Z_{t-2}-\theta_1^3 Z_{t-3}-...+a_t$$`
+`$$Z_t=C(1+\theta_1+\theta_1^2+...)-\theta_1 Z_{t-1}-\theta_1^2 Z_{t-2}-\theta_1^3 Z_{t-3}-...+a_t$$`
 - Si `\(|\theta_1|\geq 1\)`, la ecuación anterior implica que `\(Z_t\)` depende más a los valores pasados lejanos que los valores cercanos, lo cual no es realista en su interpretación.
 - Esta condición es conocida como **condición de invertibilidad**.
 
