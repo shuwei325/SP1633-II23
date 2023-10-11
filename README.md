@@ -28,7 +28,7 @@ final](https://shuwei325.github.io/SP1633-II23/instrucciones_trabajo.html)
 | 8      | 2/10  | Parcial I                                                                                                                                                  |                                                                                                                   |
 | 9      | 9/10  | [Tema 6_2](https://shuwei325.github.io/SP1633-II23/Tema_6/presentacion2.html)                                                                              |                                                                                                                   |
 | 10     | 16/10 | [Tema 6_3](https://shuwei325.github.io/SP1633-II23/Tema_6/presentacion3.html)                                                                              | [Lab Tema 6_1](https://shuwei325.github.io/SP1633-II23/Tema_6/lab_Tema06_1.html)                                  |
-| 11     | 23/10 | [Tema 6_4](https://shuwei325.github.io/SP1633-II23/Tema_6/presentacion4.html)                                                                              | [Lab Tema 2](https://shuwei325.github.io/SP1633-II23/Tema_6/lab_Tema06_2.html)                                    |
+| 11     | 23/10 | [Tema 6_4](https://shuwei325.github.io/SP1633-II23/Tema_6/presentacion4.html)                                                                              | [Lab Tema 6_2](https://shuwei325.github.io/SP1633-II23/Tema_6/lab_Tema06_2.html)                                  |
 
 <!-- 11             | 23/10 |  |     | -->
 <!-- 12             | 30/10 |  |     | -->
