@@ -29,10 +29,10 @@ final](https://shuwei325.github.io/SP1633-II23/instrucciones_trabajo.html)
 | 9      | 9/10  | [Tema 6_2](https://shuwei325.github.io/SP1633-II23/Tema_6/presentacion2.html)                                                                              |                                                                                                                   |
 | 10     | 16/10 | [Tema 6_3](https://shuwei325.github.io/SP1633-II23/Tema_6/presentacion3.html)                                                                              | [Lab Tema 6_1](https://shuwei325.github.io/SP1633-II23/Tema_6/lab_Tema06_1.html)                                  |
 | 11     | 23/10 | [Tema 6_4](https://shuwei325.github.io/SP1633-II23/Tema_6/presentacion4.html)                                                                              | [Lab Tema 6_2](https://shuwei325.github.io/SP1633-II23/Tema_6/lab_Tema06_2.html)                                  |
-| 12     | 30/10 | [Tema 7](https://shuwei325.github.io/SP1633-II23/Tema_7/presentacion.html)                                                                                 | [Lab Tema 5](https://shuwei325.github.io/SP1633-II23/Tema_7/lab_Tema07.html) <br> [archivos](./Tema_7/Tema_7.zip) |
+| 12     | 30/10 | [Tema 7](https://shuwei325.github.io/SP1633-II23/Tema_7/presentacion.html)                                                                                 | [Lab Tema 7](https://shuwei325.github.io/SP1633-II23/Tema_7/lab_Tema07.html) <br> [archivos](./Tema_7/Tema_7.zip) |
+| 13     | 6/11  | [Tema 8a](https://shuwei325.github.io/SP1633-II23/Tema_8/presentacion.html)                                                                                | [Lab Tema 8a](https://shuwei325.github.io/SP1633-II23/Tema_7/lab_Tema08a.R)                                       |
 
-<!-- 13             | 6/11 |  |     | -->
-<!-- 14             | 13/11 |  |     | -->
+13 \| 6/11 \| \| \| <!-- 14             | 13/11 |  |     | -->
 <!-- 15             | 20/11 |  |     | -->
 <!-- 16             | 27/11 |  |     | -->
 
