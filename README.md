@@ -32,7 +32,8 @@ final](https://shuwei325.github.io/SP1633-II23/instrucciones_trabajo.html)
 | 12     | 30/10 | [Tema 7](https://shuwei325.github.io/SP1633-II23/Tema_7/presentacion.html)                                                                                 | [Lab Tema 7](https://shuwei325.github.io/SP1633-II23/Tema_7/lab_Tema07.html) <br> [archivos](./Tema_7/Tema_7.zip) |
 | 13     | 6/11  | [Tema 8a](https://shuwei325.github.io/SP1633-II23/Tema_8a/presentacion.html)                                                                               | [Lab Tema 8a](https://shuwei325.github.io/SP1633-II23/Tema_8a/lab_Tema08a.R)                                      |
 
-13 \| 6/11 \| \| \| <!-- 14             | 13/11 |  |     | -->
+<!-- 13             | 6/11 |  |     | -->
+<!-- 14             | 13/11 |  |     | -->
 <!-- 15             | 20/11 |  |     | -->
 <!-- 16             | 27/11 |  |     | -->
 
