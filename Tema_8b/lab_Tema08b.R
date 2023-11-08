@@ -1,5 +1,5 @@
 
-# Laboratorio 10 -----------------------------------------------------------
+# Tema VIII: Modelos lineales multivariados de series temporales ---------------
 
 library(ggplot2)
 library(forecast)

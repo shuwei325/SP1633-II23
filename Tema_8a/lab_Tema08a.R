@@ -1,5 +1,5 @@
 
-# Tema VIII: Modelos no lineales: ARCH, GARCH y extensiones ------------------
+# Tema VIII: Modelos no lineales: ARCH, GARCH y extensiones -------
 
 # 0. Librerías ---------------------------------------------------
 
