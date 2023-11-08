@@ -4,11 +4,11 @@
     <title>Tema 8a: Modelos no lineales: ARCH, GARCH y extensiones</title>
     <meta charset="utf-8" />
     <meta name="author" content="Prof. Shu Wei Chou Chen" />
-    <script src="presentacion_garch_files/header-attrs/header-attrs.js"></script>
-    <link href="presentacion_garch_files/remark-css/default.css" rel="stylesheet" />
-    <link href="presentacion_garch_files/remark-css/metropolis.css" rel="stylesheet" />
-    <link href="presentacion_garch_files/remark-css/metropolis-fonts.css" rel="stylesheet" />
-    <link href="presentacion_garch_files/remark-css/ninjutsu.css" rel="stylesheet" />
+    <script src="presentacion_files/header-attrs/header-attrs.js"></script>
+    <link href="presentacion_files/remark-css/default.css" rel="stylesheet" />
+    <link href="presentacion_files/remark-css/metropolis.css" rel="stylesheet" />
+    <link href="presentacion_files/remark-css/metropolis-fonts.css" rel="stylesheet" />
+    <link href="presentacion_files/remark-css/ninjutsu.css" rel="stylesheet" />
     <link rel="stylesheet" href="text_color.css" type="text/css" />
   </head>
   <body>
@@ -168,18 +168,18 @@ si `\(r_t\)` son cambios porcentuales pequeños.
 # Ejemplo
 ## Promedio diario industrial Dow Jone
 
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-2-1.png" width="60%" style="display: block; margin: auto;" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-2-1.png" width="60%" style="display: block; margin: auto;" /&gt;
 
 ---
 # Ejemplo
 ## Promedio diario industrial Dow Jone
 
 .pull-left[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-3-1.png" width="90%" style="display: block; margin: auto;" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-3-1.png" width="90%" style="display: block; margin: auto;" /&gt;
 ]
 
 .pull-right[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-4-1.png" width="90%" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-4-1.png" width="90%" /&gt;
 ]
 
 ---
@@ -187,7 +187,7 @@ si `\(r_t\)` son cambios porcentuales pequeños.
 ## Promedio diario industrial Dow Jone
 
 
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-5-1.png" width="50%" style="display: block; margin: auto;" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-5-1.png" width="50%" style="display: block; margin: auto;" /&gt;
 
 
 ---
@@ -223,7 +223,7 @@ summary(mod1)
 ## Promedio diario industrial Dow Jone
 
 
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-7-1.png" width="40%" style="display: block; margin: auto;" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-7-1.png" width="40%" style="display: block; margin: auto;" /&gt;
 
 ```
 ## 
@@ -241,11 +241,11 @@ summary(mod1)
 ## Promedio diario industrial Dow Jone
 
 .pull-left[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-8-1.png" width="90%" style="display: block; margin: auto;" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-8-1.png" width="90%" style="display: block; margin: auto;" /&gt;
 ]
 
 .pull-right[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-9-1.png" width="90%" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-9-1.png" width="90%" /&gt;
 ]
 
 
@@ -305,11 +305,11 @@ El modelo ARCH(1) es leptocúrtico ya que las colas son más pesadas que una dis
 Simulación de ARCH(1) con `\(\alpha_0=0.01\)`, `\(\alpha_1=0.8\)`
 
 .pull-left[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-10-1.png" width="90%" style="display: block; margin: auto;" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-10-1.png" width="90%" style="display: block; margin: auto;" /&gt;
 ]
 
 .pull-right[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-11-1.png" width="90%" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-11-1.png" width="90%" /&gt;
 ]
 
 ---
@@ -318,11 +318,11 @@ Simulación de ARCH(1) con `\(\alpha_0=0.01\)`, `\(\alpha_1=0.8\)`
 Si elevamos al cuadrado la serie simulada `\(X_t\)`.
 
 .pull-left[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-12-1.png" width="90%" style="display: block; margin: auto;" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-12-1.png" width="90%" style="display: block; margin: auto;" /&gt;
 ]
 
 .pull-right[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-13-1.png" width="90%" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-13-1.png" width="90%" /&gt;
 ]
 
 
@@ -343,11 +343,11 @@ en donde `\(\epsilon_t\)` es ruido blanco gaussiano estándar, i.e. `\(\epsilon_
 Simulación de ARCH(2) con `\(\alpha_0=0.01\)`, `\(\alpha_1=0.2\)`,  `\(\alpha_2=0.4\)`
 
 .pull-left[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-14-1.png" width="90%" style="display: block; margin: auto;" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-14-1.png" width="90%" style="display: block; margin: auto;" /&gt;
 ]
 
 .pull-right[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-15-1.png" width="90%" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-15-1.png" width="90%" /&gt;
 ]
 
 ---
@@ -356,11 +356,11 @@ Simulación de ARCH(2) con `\(\alpha_0=0.01\)`, `\(\alpha_1=0.2\)`,  `\(\alpha_2
 Si elevamos al cuadrado la serie simulada `\(X_t\)`.
 
 .pull-left[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-16-1.png" width="90%" style="display: block; margin: auto;" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-16-1.png" width="90%" style="display: block; margin: auto;" /&gt;
 ]
 
 .pull-right[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-17-1.png" width="90%" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-17-1.png" width="90%" /&gt;
 ]
 
 
@@ -381,11 +381,11 @@ con `\(\epsilon_t \sim i.i.d. N(0,1)\)`, `\(\alpha_0 &gt;0\)`, `\(\alpha_1 \geq 
 Simulación de GARCH(1,1) con `\(\alpha_0=0.01\)`, `\(\alpha_1=0.2\)`,  `\(\beta_2=0.4\)`
 
 .pull-left[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-18-1.png" width="90%" style="display: block; margin: auto;" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-18-1.png" width="90%" style="display: block; margin: auto;" /&gt;
 ]
 
 .pull-right[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-19-1.png" width="90%" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-19-1.png" width="90%" /&gt;
 ]
 
 ---
@@ -394,11 +394,11 @@ Simulación de GARCH(1,1) con `\(\alpha_0=0.01\)`, `\(\alpha_1=0.2\)`,  `\(\beta
 Si elevamos al cuadrado la serie simulada `\(X_t\)`.
 
 .pull-left[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-20-1.png" width="90%" style="display: block; margin: auto;" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-20-1.png" width="90%" style="display: block; margin: auto;" /&gt;
 ]
 
 .pull-right[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-21-1.png" width="90%" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-21-1.png" width="90%" /&gt;
 ]
 
 ---
@@ -406,11 +406,11 @@ Si elevamos al cuadrado la serie simulada `\(X_t\)`.
 ## Promedio diario industrial Dow Jone
 
 .pull-left[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-22-1.png" width="90%" style="display: block; margin: auto;" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-22-1.png" width="90%" style="display: block; margin: auto;" /&gt;
 ]
 
 .pull-right[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-23-1.png" width="90%" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-23-1.png" width="90%" /&gt;
 ]
 
 
@@ -446,11 +446,11 @@ summary(mod1)
 ## Promedio diario industrial Dow Jone
 
 .pull-left[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-25-1.png" width="90%" style="display: block; margin: auto;" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-25-1.png" width="90%" style="display: block; margin: auto;" /&gt;
 ]
 
 .pull-right[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-26-1.png" width="90%" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-26-1.png" width="90%" /&gt;
 ]
 
 ---
@@ -458,11 +458,11 @@ summary(mod1)
 ## Promedio diario industrial Dow Jone
 
 .pull-left[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-27-1.png" width="90%" style="display: block; margin: auto;" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-27-1.png" width="90%" style="display: block; margin: auto;" /&gt;
 ]
 
 .pull-right[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-28-1.png" width="90%" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-28-1.png" width="90%" /&gt;
 ]
 
 
@@ -503,11 +503,11 @@ El Modelo GARCH(1,1):
 ## Promedio diario industrial Dow Jone
 
 .pull-left[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-31-1.png" width="90%" style="display: block; margin: auto;" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-31-1.png" width="90%" style="display: block; margin: auto;" /&gt;
 ]
 
 .pull-right[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-32-1.png" width="90%" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-32-1.png" width="90%" /&gt;
 ]
 
 ---
@@ -515,11 +515,11 @@ El Modelo GARCH(1,1):
 ## Promedio diario industrial Dow Jone
 
 .pull-left[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-33-1.png" width="90%" style="display: block; margin: auto;" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-33-1.png" width="90%" style="display: block; margin: auto;" /&gt;
 ]
 
 .pull-right[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-34-1.png" width="100%" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-34-1.png" width="100%" /&gt;
 ]
 
 ---
@@ -527,11 +527,11 @@ El Modelo GARCH(1,1):
 ## Promedio diario industrial Dow Jone
 
 .pull-left[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-35-1.png" width="90%" style="display: block; margin: auto;" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-35-1.png" width="90%" style="display: block; margin: auto;" /&gt;
 ]
 
 .pull-right[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-36-1.png" width="100%" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-36-1.png" width="100%" /&gt;
 ]
 
 ---
@@ -539,18 +539,17 @@ El Modelo GARCH(1,1):
 ## Promedio diario industrial Dow Jone
 
 .pull-left[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-37-1.png" width="90%" style="display: block; margin: auto;" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-37-1.png" width="90%" style="display: block; margin: auto;" /&gt;
 ]
 
 .pull-right[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-38-1.png" width="100%" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-38-1.png" width="100%" /&gt;
 ]
 
 
 
 ---
-# Ejemplo
-## Promedio diario industrial Dow Jone
+# Ejemplo Promedio diario industrial D.J.
 
 Modelo ARMA-GARCH
 
@@ -586,11 +585,11 @@ El Modelo ARMA(1,1)+GARCH(1,1):
 ## Promedio diario industrial Dow Jone
 
 .pull-left[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-41-1.png" width="90%" style="display: block; margin: auto;" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-41-1.png" width="90%" style="display: block; margin: auto;" /&gt;
 ]
 
 .pull-right[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-42-1.png" width="90%" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-42-1.png" width="90%" /&gt;
 ]
 
 ---
@@ -598,11 +597,11 @@ El Modelo ARMA(1,1)+GARCH(1,1):
 ## Promedio diario industrial Dow Jone
 
 .pull-left[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-43-1.png" width="90%" style="display: block; margin: auto;" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-43-1.png" width="90%" style="display: block; margin: auto;" /&gt;
 ]
 
 .pull-right[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-44-1.png" width="100%" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-44-1.png" width="100%" /&gt;
 ]
 
 ---
@@ -610,11 +609,11 @@ El Modelo ARMA(1,1)+GARCH(1,1):
 ## Promedio diario industrial Dow Jone
 
 .pull-left[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-45-1.png" width="90%" style="display: block; margin: auto;" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-45-1.png" width="90%" style="display: block; margin: auto;" /&gt;
 ]
 
 .pull-right[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-46-1.png" width="100%" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-46-1.png" width="100%" /&gt;
 ]
 
 ---
@@ -622,11 +621,11 @@ El Modelo ARMA(1,1)+GARCH(1,1):
 ## Promedio diario industrial Dow Jone
 
 .pull-left[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-47-1.png" width="90%" style="display: block; margin: auto;" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-47-1.png" width="90%" style="display: block; margin: auto;" /&gt;
 ]
 
 .pull-right[
-&lt;img src="presentacion_garch_files/figure-html/unnamed-chunk-48-1.png" width="100%" /&gt;
+&lt;img src="presentacion_files/figure-html/unnamed-chunk-48-1.png" width="100%" /&gt;
 ]
 
 

@@ -101,6 +101,8 @@ plot(CREF)
 r.cref=diff(log(CREF))*100
 plot(r.cref); abline(h=0)
 
+plot(r.cref^2)
+
 #Inspección de acf y pacf
 acf2(r.cref)
 acf2(r.cref^2)
