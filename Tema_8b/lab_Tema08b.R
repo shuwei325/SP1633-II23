@@ -46,7 +46,7 @@ Apoly   <- array(c(1.0, -0.5, 0.3,
                    0, -0.2, 0.7, 
                    1, 0.5, -0.3) ,
                  c(3, 2, 2))
-#I-Phi_1 B - Phi_2 B
+#I+Phi_1 B + Phi_2 B
 Apoly[1,,]
 Apoly[2,,]
 Apoly[3,,]
@@ -162,6 +162,7 @@ fanchart(mod.pronostico)
 
 # 3. Ejemplo: crecimiento de Producto Interno Bruto de UK, Canada y US ------------------------
 #Ejemplo 4.7 Tsay
+
 
 data=read.table("q-gdp-ukcaus.txt",header=T)
 names(data)
